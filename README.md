@@ -55,6 +55,14 @@ chmod +x run_local.sh && ./run_local.sh
 # Opens ADK Web UI at http://localhost:8000
 ```
 
+**Lab 1 — on Windows:**
+```powershell
+# From PowerShell
+.\run_local.ps1
+
+# Or double-click run_local.bat
+```
+
 **Lab 2 — travel concierge:**
 ```bash
 adk web travel_concierge
